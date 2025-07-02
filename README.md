@@ -6,18 +6,11 @@
 
 ## darkboss1-web-reconnaissance-toolkit: One Tool to Rule All Recon
 
-Omnisci3nt is a powerful and comprehensive web reconnaissance toolkit tailored to cybersecurity professionals, ethical hackers, and digital investigators. It allows you to uncover hidden information about domains, analyze configurations, detect technologies, and explore archived content from the web.
+darkboss1-web-reconnaissance-toolkit is a powerful and comprehensive web reconnaissance toolkit tailored to cybersecurity professionals, ethical hackers, and digital investigators. It allows you to uncover hidden information about domains, analyze configurations, detect technologies, and explore archived content from the web.
 
-Whether you're analyzing a target for vulnerabilities or simply exploring the technical details of a website, Omnisci3nt provides an all-in-one solution to automate and streamline your reconnaissance process.
+Whether you're analyzing a target for vulnerabilities or simply exploring the technical details of a website, darkboss1-web-reconnaissance-toolkit provides an all-in-one solution to automate and streamline your reconnaissance process.
 
 ---
-
-### ☁️ Run It Instantly on Google Colab (No Installation Needed)
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/spyboy-productions/omnisci3nt/blob/main/omnisci3nt.ipynb)
-
-> 💡 *For full functionality and better performance, a local installation is recommended.*
-
 ---
 
 ### Key Features
@@ -69,7 +62,7 @@ python3 -m pip install --user pipx
 python3 -m pipx ensurepath
 ```
 
-#### Step 2: Install Omnisci3nt
+#### Step 2: Install darkboss1-web-reconnaissance-toolkit
 ```bash
 pipx install git+https://github.com/darkboss1/darkboss1-web-reconnaissance-toolkit.git
 ```
